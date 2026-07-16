@@ -22,6 +22,6 @@
 // const Phones=["iPhone", "Samsung", "Google Pixel", "Huawei", "Xiaomi"]
 // console.log (Phones)
 
-const Phones = ["iPhone", "Samsung", "Google Pixel", "Huawei", "Xiaomi"]
-console.log(Phones[0]);
-console.log(Phones[4])
+// const Phones = ["iPhone", "Samsung", "Google Pixel", "Huawei", "Xiaomi"]
+// console.log(Phones[0]);
+// console.log(Phones[4])
