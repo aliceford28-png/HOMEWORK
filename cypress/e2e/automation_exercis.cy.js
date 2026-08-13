@@ -1,4 +1,4 @@
-//v// 1. Launch browser
+// 1. Launch browser
 cy.visit('about:blank');
 // 2. Navigate to url 'http://automationexercise.com'
 cy.visit('http://automationexercise.com');
@@ -44,7 +44,4 @@ cy.contains('h2', 'ACCOUNT CREATED!').should('be.visible');
 // 15. Click 'Continue' button
 cy.get('[data-qa="continue-button"]').click();
 // 16. Verify that 'Logged in as username' is visible
-cy.contains('a', 'Logged in as aliceford').should('be.visible'); 
-import './commands'
-import './automation_exercise' {
-}'
+cy.contains('a', 'Logged in as aliceford').should('be.visible');

@@ -22,7 +22,6 @@
 //     cy.get('a[title="Edit Address"]').click();
 //     cy.get('#AddressFrom_firstname').clear().type('Ira');
 //     cy.get('#AddressFrom_lastname').clear().type('Aushka');
-//     cy.get('#AddressFrom_address_1').clear().type('avon St');
 //     cy.get('#AddressFrom_city').clear().type('Philadelphia');
 //     cy.get('#AddressFrom_postcode').clear().type('19003');
 //     cy.get('button[title="Update"]').click();
