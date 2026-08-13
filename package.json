@@ -1,0 +1,23 @@
+{
+  "name": "homework-1",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/aliceford28-png/HOMEWORK#readme",
+  "bugs": {
+    "url": "https://github.com/aliceford28-png/HOMEWORK/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliceford28-png/HOMEWORK.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "cypress": "^15.19.0"
+  }
+}

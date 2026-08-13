@@ -1,0 +1,12 @@
+"valid_user": {
+    "username": "aliceford",
+    "password": "alice1234",
+    "email": "alica@test.com,
+     
+  },
+  "invalid_user": {
+    "username": "invaliduser",
+    "password": "wrongpassword11",
+    "email": "wrongemail@gmail.com"
+  }
+}
